@@ -1,9 +1,9 @@
 {
   "name": "koa-authority",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Koa middleware for the authority module. Support v1 and v2.",
   "author": "",
-  "homepage": "https://github.com/luckcoding/koa-middle-authority",
+  "homepage": "https://github.com/luckcoding/koa-authority",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luckcoding/koa-middle-authority.git"
+    "url": "git+https://github.com/luckcoding/koa-authority.git"
   },
   "dependencies": {
     "lodash": "^4.17.4",

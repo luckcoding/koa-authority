@@ -1,13 +1,13 @@
-# koa-middle-authority
+# koa-authority
 
-[![npm version](https://img.shields.io/npm/v/koa-middle-authority.svg)](https://www.npmjs.com/package/koa-middle-authority)
+[![npm version](https://img.shields.io/npm/v/koa-authority.svg)](https://www.npmjs.com/package/koa-authority)
 
 This module provides a minimalistic verification.
 
 ## Installation
 
 ```
-npm install koa-middle-authority
+npm install koa-authority
 ```
 
 ## Use
