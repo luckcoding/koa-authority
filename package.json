@@ -1,6 +1,6 @@
 {
   "name": "koa-authority",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "Koa middleware for the authority module. Support v1 and v2.",
   "author": "",
   "homepage": "https://github.com/luckcoding/koa-authority",
